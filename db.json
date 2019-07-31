@@ -84,50 +84,50 @@
           "publishername": "test"
         }
       }
-    ],
-    "com.mobiotics.vlive.tv": {
-      "appdata": {
-        "appid": "com.mobiotics.vlive.tv",
-        "appname": "vLive - Movies, TV Shows & Live TV",
-        "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
-        "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
-        "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
-        "curversion": 1,
-        "apptype": "FREE",
-        "modified": "2019-07-28T18:30:00.000Z",
-        "forceupdate": "NO",
-        "appstatus": "NEW"
+    ]
+  },
+  "com.mobiotics.vlive.tv": {
+    "appdata": {
+      "appid": "com.mobiotics.vlive.tv",
+      "appname": "vLive - Movies, TV Shows & Live TV",
+      "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
+      "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
+      "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
+      "curversion": 1,
+      "apptype": "FREE",
+      "modified": "2019-07-28T18:30:00.000Z",
+      "forceupdate": "NO",
+      "appstatus": "NEW"
+    },
+    "appdetails": {
+      "filename": "http://d4ds22to4ycu6.cloudfront.net/apkfiles/vliveapp.txt",
+      "filesize": 14279040,
+      "created": "2019-07-28T18:30:00.000Z",
+      "linkexpiry": "900s"
+    },
+    "appscreen": [
+      {
+        "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+        "orientation": "LANDSCAPE",
+        "imagetype": "SCREEN"
       },
-      "appdetails": {
-        "filename": "http://d4ds22to4ycu6.cloudfront.net/apkfiles/vliveapp.txt",
-        "filesize": 14279040,
-        "created": "2019-07-28T18:30:00.000Z",
-        "linkexpiry": "900s"
+      {
+        "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+        "orientation": "LANDSCAPE",
+        "imagetype": "SCREEN"
       },
-      "appscreen": [
-        {
-          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
-          "orientation": "LANDSCAPE",
-          "imagetype": "SCREEN"
-        },
-        {
-          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
-          "orientation": "LANDSCAPE",
-          "imagetype": "SCREEN"
-        },
-        {
-          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
-          "orientation": "LANDSCAPE",
-          "imagetype": "SCREEN"
-        }
-      ],
-      "pricing": {
-        "amount": null,
-        "currency": null
-      },
-      "publisher": {
-        "publishername": "test"
+      {
+        "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+        "orientation": "LANDSCAPE",
+        "imagetype": "SCREEN"
       }
+    ],
+    "pricing": {
+      "amount": null,
+      "currency": null
+    },
+    "publisher": {
+      "publishername": "test"
     }
   }
 }
