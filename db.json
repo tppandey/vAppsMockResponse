@@ -9,7 +9,7 @@
           "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/Youtube_logo_512.png",
           "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/Youtube_banner.png",
           "description": "See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.",
-          "curversion": 1,
+          "curversion": "1.0.0",
           "category": "ENTERTAINMENT",
           "apptype": "FREE",
           "modified": "2019-07-30T00:00:00.000Z",
@@ -50,7 +50,7 @@
           "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
           "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
           "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
-          "curversion": 1,
+          "curversion": "1.0",
           "category": "ENTERTAINMENT",
           "apptype": "FREE",
           "modified": "2019-07-29T00:00:00.000Z",
@@ -81,7 +81,7 @@
           "currency": "INR"
         },
         "publisher": {
-          "publishername": "test"
+          "publishername": "Google Inc"
         }
       }
     ]
@@ -93,7 +93,7 @@
       "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
       "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
       "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
-      "curversion": 1,
+      "curversion": "1.0",
       "apptype": "FREE",
       "modified": "2019-07-28T18:30:00.000Z",
       "forceupdate": "NO",
@@ -127,7 +127,7 @@
       "currency": null
     },
     "publisher": {
-      "publishername": "test"
+      "publishername": "Mobiotics"
     }
   }
 }
