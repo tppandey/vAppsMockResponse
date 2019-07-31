@@ -46,7 +46,7 @@
       {
         "appdata": {
           "appid": "com.mobiotics.vlive.tv",
-          "appname": "vLive - Movies, TV Shows & Live TV",
+          "appname": "vLive - Movies, TV Shows",
           "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
           "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
           "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
@@ -89,7 +89,7 @@
   "com.mobiotics.vlive.tv": {
     "appdata": {
       "appid": "com.mobiotics.vlive.tv",
-      "appname": "vLive - Movies, TV Shows & Live TV",
+      "appname": "vLive - Movies, TV Shows",
       "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
       "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
       "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
