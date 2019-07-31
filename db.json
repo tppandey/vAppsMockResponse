@@ -40,7 +40,7 @@
           "currency": "INR"
         },
         "publisher": {
-          "publishername": "test"
+          "publishername": "Google Inc."
         }
       },
       {
@@ -81,7 +81,7 @@
           "currency": "INR"
         },
         "publisher": {
-          "publishername": "Google Inc"
+          "publishername": "Mobiotics"
         }
       }
     ]
