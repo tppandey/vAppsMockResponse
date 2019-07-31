@@ -1,0 +1,133 @@
+{
+  "apps": {
+    "totalcount": 2,
+    "data": [
+      {
+        "appdata": {
+          "appid": "com.fw.youtube.tv",
+          "appname": "YouTube for TV",
+          "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/Youtube_logo_512.png",
+          "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/Youtube_banner.png",
+          "description": "See what the world is watching -- from the hottest music videos to what’s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device.",
+          "curversion": 1,
+          "category": "ENTERTAINMENT",
+          "apptype": "FREE",
+          "modified": "2019-07-30T00:00:00.000Z",
+          "forceupdate": "NO",
+          "filesize": 2129584,
+          "created": "2019-07-30T00:00:00.000Z",
+          "appstatus": "INSTALLED"
+        },
+        "appscreen": [
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/youtube1.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          },
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/youtube2.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          },
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/youtube3.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          }
+        ],
+        "pricing": {
+          "amount": 0,
+          "currency": "INR"
+        },
+        "publisher": {
+          "publishername": "test"
+        }
+      },
+      {
+        "appdata": {
+          "appid": "com.mobiotics.vlive.tv",
+          "appname": "vLive - Movies, TV Shows & Live TV",
+          "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
+          "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
+          "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
+          "curversion": 1,
+          "category": "ENTERTAINMENT",
+          "apptype": "FREE",
+          "modified": "2019-07-29T00:00:00.000Z",
+          "forceupdate": "NO",
+          "filesize": 14279040,
+          "created": "2019-07-29T00:00:00.000Z",
+          "appstatus": "NEW"
+        },
+        "appscreen": [
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive1.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          },
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive2.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          },
+          {
+            "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+            "orientation": "LANDSCAPE",
+            "imagetype": "SCREEN"
+          }
+        ],
+        "pricing": {
+          "amount": 0,
+          "currency": "INR"
+        },
+        "publisher": {
+          "publishername": "test"
+        }
+      }
+    ],
+    "com.mobiotics.vlive.tv": {
+      "appdata": {
+        "appid": "com.mobiotics.vlive.tv",
+        "appname": "vLive - Movies, TV Shows & Live TV",
+        "icon": "http://d4ds22to4ycu6.cloudfront.net/logo/vLive_logo_512.png",
+        "banner": "http://d4ds22to4ycu6.cloudfront.net/banner/vLive_banner.png",
+        "description": "Enjoy unlimited entertainment Anytime, Anywhere on Any Device. vLive is a premium subscription based service, offering 100+ Live TV channels, 5000+ hours of TV Shows and Movies on its platform.",
+        "curversion": 1,
+        "apptype": "FREE",
+        "modified": "2019-07-28T18:30:00.000Z",
+        "forceupdate": "NO",
+        "appstatus": "NEW"
+      },
+      "appdetails": {
+        "filename": "http://d4ds22to4ycu6.cloudfront.net/apkfiles/vliveapp.txt",
+        "filesize": 14279040,
+        "created": "2019-07-28T18:30:00.000Z",
+        "linkexpiry": "900s"
+      },
+      "appscreen": [
+        {
+          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+          "orientation": "LANDSCAPE",
+          "imagetype": "SCREEN"
+        },
+        {
+          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+          "orientation": "LANDSCAPE",
+          "imagetype": "SCREEN"
+        },
+        {
+          "filename": "http://d4ds22to4ycu6.cloudfront.net/screens/vLive3.png",
+          "orientation": "LANDSCAPE",
+          "imagetype": "SCREEN"
+        }
+      ],
+      "pricing": {
+        "amount": null,
+        "currency": null
+      },
+      "publisher": {
+        "publishername": "test"
+      }
+    }
+  }
+}
